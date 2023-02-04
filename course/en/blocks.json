@@ -1,0 +1,458 @@
+[
+  {
+    "title": "Digital Tools and Resources on www.amway.my",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour4 no-element-backgrounds righth-first",
+    "_trackingId": 0,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660119",
+    "_parentId": "62f60867aaa43509b066010b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "When do you need those resources the most?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour4 no-element-backgrounds",
+    "_trackingId": 1,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066011a",
+    "_parentId": "62f60867aaa43509b0660111",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Find out about the Amway compensation plan in detail!",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour4 no-element-backgrounds",
+    "_trackingId": 2,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066011b",
+    "_parentId": "62f60867aaa43509b0660115",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066011d",
+    "_parentId": "62f60867aaa43509b066010c",
+    "_type": "block"
+  },
+  {
+    "title": "Customer Favourites: How does it work for you?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour6 no-element-backgrounds no-article-backgrounds right-first",
+    "_trackingId": 4,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066011e",
+    "_parentId": "62f60867aaa43509b066010d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "What you can learn and how?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660121",
+    "_parentId": "62f60867aaa43509b066010e",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660127",
+    "_parentId": "62f60867aaa43509b0660110",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660128",
+    "_parentId": "62f60867aaa43509b0660113",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660129",
+    "_parentId": "62f60867aaa43509b0660114",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066012d",
+    "_parentId": "62f60867aaa43509b066010f",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066012e",
+    "_parentId": "62f60867aaa43509b0660112",
+    "_type": "block"
+  },
+  {
+    "title": "Block",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour4 semi-transparent",
+    "_trackingId": 11,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660130",
+    "_parentId": "62f60867aaa43509b0660116",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660132",
+    "_parentId": "62f60867aaa43509b0660117",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660134",
+    "_parentId": "62f60867aaa43509b0660118",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066011c",
+    "_parentId": "62f60867aaa43509b066010b",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660120",
+    "_parentId": "62f60867aaa43509b066010d",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 16,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660122",
+    "_parentId": "62f60867aaa43509b066010e",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour4 no-element-backgrounds",
+    "_trackingId": 17,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660126",
+    "_parentId": "62f60867aaa43509b066010f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066012f",
+    "_parentId": "62f60867aaa43509b0660115",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 19,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660131",
+    "_parentId": "62f60867aaa43509b0660116",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 20,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660135",
+    "_parentId": "62f60867aaa43509b0660118",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 21,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066011f",
+    "_parentId": "62f60867aaa43509b066010d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 22,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660123",
+    "_parentId": "62f60867aaa43509b066010e",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 23,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660133",
+    "_parentId": "62f60867aaa43509b0660115",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 24,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660136",
+    "_parentId": "62f60867aaa43509b0660118",
+    "_type": "block"
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 25,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660124",
+    "_parentId": "62f60867aaa43509b066010e",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 26,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066012a",
+    "_parentId": "62f60867aaa43509b066010d",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 27,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066012b",
+    "_parentId": "62f60867aaa43509b066010e",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 28,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660125",
+    "_parentId": "62f60867aaa43509b066010e",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 29,
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066012c",
+    "_parentId": "62f60867aaa43509b066010e",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  }
+]

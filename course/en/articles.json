@@ -1,0 +1,282 @@
+[
+  {
+    "title": "When do you need those resources the most?",
+    "displayTitle": "When do you need those resources the most?",
+    "body": "",
+    "_classes": "background-image2 background-colour6 article-centre no-element-backgrounds no-article-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066010c",
+    "_parentId": "62f60867aaa43509b0660109",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Digital Tools and Resources on www.amway.my",
+    "displayTitle": "Digital Tools and Resources on www.amway.my",
+    "body": "",
+    "_classes": "background-image1 background-colour6 article-centre no-element-backgrounds no-article-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660110",
+    "_parentId": "62f60867aaa43509b0660108",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Find out about the Amway compensation plan in detail!",
+    "displayTitle": "Find out about the Amway compensation plan in detail!",
+    "body": "",
+    "_classes": "background-image3 article-centre background-colour6 no-element-backgrounds no-article-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660112",
+    "_parentId": "62f60867aaa43509b066010a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour6 no-element-backgrounds no-article-backgrounds remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066010b",
+    "_parentId": "62f60867aaa43509b0660108",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660111",
+    "_parentId": "62f60867aaa43509b0660109",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour6 no-element-backgrounds no-article-backgrounds remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660115",
+    "_parentId": "62f60867aaa43509b066010a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Customer Favourites",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image4 background-colour6 article-centre no-element-backgrounds no-article-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660113",
+    "_parentId": "62f60867aaa43509b0660109",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Amway Protects ABOs’ Businesses",
+    "displayTitle": "Amway Protects ABOs’ Businesses",
+    "body": "",
+    "_classes": "background-image10 article-centre background-colour11 no-element-backgrounds no-article-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660117",
+    "_parentId": "62f60867aaa43509b066010a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Customer Favourites",
+    "displayTitle": "Customer Favourites",
+    "body": "",
+    "_classes": "article-centre remove-padding-top background-colour6 no-element-backgrounds no-article-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066010d",
+    "_parentId": "62f60867aaa43509b0660109",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Amway Protects ABOs’ Businesses",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour11 no-element-backgrounds no-article-backgrounds remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660116",
+    "_parentId": "62f60867aaa43509b066010a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "eLearning",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image6 background-colour6 article-centre no-element-backgrounds no-article-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660114",
+    "_parentId": "62f60867aaa43509b0660109",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Thank you, and congratulations for completing this course!",
+    "displayTitle": "Thank you, and congratulations for completing this course!",
+    "body": "",
+    "_classes": "background-image11 background-colour4 no-element-backgrounds no-article-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b0660118",
+    "_parentId": "62f60867aaa43509b066010a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Amway eLearning",
+    "displayTitle": "Amway eLearning",
+    "body": "",
+    "_classes": "background-colour6 article-centre no-element-backgrounds no-article-backgrounds remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066010e",
+    "_parentId": "62f60867aaa43509b0660109",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "DID YOU KNOW?",
+    "displayTitle": "DID YOU KNOW?",
+    "body": "",
+    "_classes": "background-image9 background-colour10 no-element-backgrounds no-article-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "62f60867aaa43509b066010f",
+    "_parentId": "62f60867aaa43509b0660109",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]

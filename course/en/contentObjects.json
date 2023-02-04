@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Overview: Web and App Resources",
+    "displayTitle": "Overview: Web and App Resources",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62f60867aaa43509b0660108",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/612253c4ed9a8302ef878308.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_menu": null,
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "When and how to use these resources?",
+    "displayTitle": "When and how to use these resources?",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62f60867aaa43509b0660109",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6122540bed9a8302ef878309.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "What's next?",
+    "displayTitle": "What's next?",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "62f60867aaa43509b066010a",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/61225437ed9a8302ef87830a.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  }
+]

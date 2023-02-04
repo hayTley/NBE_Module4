@@ -1,0 +1,172 @@
+{
+  "title": "Module 4",
+  "displayTitle": "Fully Utilise Amway Resources to Grow Your Business",
+  "body": "<p>Amway offers a range of apps and digital resources to give you the convenience of running your businesses anytime or anywhere from a computer, smartphone or tablet. These free resources are provided to help you catch up with <strong>business updates</strong>, <strong>promotions/campaigns</strong> and even <strong>knowledge</strong> that are fundamental to growing your businesses.</p><p>Let’s find out more about the available resources that are most relevant to you, so you know where to find the most updated business information and learn to grow further with the power of knowledge!</p>",
+  "description": "",
+  "_latestTrackingId": 29,
+  "_language": "en",
+  "_multilanguage": [],
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_lockType": null,
+  "_id": "course",
+  "_type": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "_accessibilityToggleTextOn": "Turn accessibility on?",
+      "_accessibilityToggleTextOff": "Turn accessibility off?",
+      "skipNavigationText": "Skip navigation",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "skipNavigation": "Skip navigation",
+        "home": "Home",
+        "menuLoaded": "Menu loaded",
+        "menu": "Menu",
+        "menuItem": "Menu item",
+        "menuViewButton": "Select here to enter",
+        "page": "Page",
+        "pageLoaded": "Page loaded",
+        "previous": "Back",
+        "navigationBack": "Navigate back",
+        "navigationDrawer": "Open course resources and search",
+        "closeResources": "Close resources",
+        "drawerBack": "Back to drawer",
+        "drawer": "Side drawer",
+        "closeDrawer": "Close drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened",
+        "visited": "Visited",
+        "menuBack": "Back to menu",
+        "menuIndicatorHeading": "Menu item heading ",
+        "exit": "Exit"
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_graphic": {
+        "ariaRegion": "",
+        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
+      },
+      "_mcq": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_accordion": {
+        "ariaRegion": "List of expandable sections. Select each button to expand the content."
+      },
+      "_narrative": {
+        "ariaRegion": "Slide show. Select the next button to progress.",
+        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      }
+    },
+    "_extensions": {
+      "_tutor": {
+        "hideFeedback": "Hide feedback"
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional content",
+        "_navOrder": ""
+      }
+    },
+    "_menu": {
+      "_coreMenu": {
+        "ariaRegion": "Menu",
+        "durationLabel": "Duration:",
+        "menuItem": "Menu item.",
+        "menuEnd": "You have reached the end of the menu."
+      }
+    }
+  },
+  "_menu": {
+    "_coreMenu": {
+      "_menuInstructionText": "Click or tap on the blocks below to find out more"
+    }
+  },
+  "metadata": {
+    "parentCourseIds": [
+      "61132ed6a95557523a329244"
+    ]
+  },
+  "_pageFooterNavigation": {
+    "_isEnabled": true,
+    "_displayIcons": false,
+    "nextButtonText": "Next",
+    "prevButtonText": "Back",
+    "homeButtonText": "Menu",
+    "upButtonText": "Up",
+    "_displayOptions": "scrollToBottom",
+    "_hideHomeButton": false,
+    "_hideUpButton": true,
+    "_hidePrevButton": false,
+    "_hideNextButton": false
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true,
+    "_showAtCourseLevel": false
+  },
+  "_tutor": {
+    "_type": "notify",
+    "_classes": "",
+    "_hasNotifyBottomButton": false,
+    "_button": {
+      "text": "{{_globals._extensions._tutor.hideFeedback}}",
+      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+    }
+  }
+}

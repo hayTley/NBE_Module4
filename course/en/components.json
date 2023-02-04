@@ -1,0 +1,1321 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:justify\">As you might have noticed, <span><span><span><span><span>Amway website is more than just an ecommerce platform. Not only does it allow you to shop for quality products, it&rsquo;s also where our digital tools and resources are hosted. </span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span><span>Expand the following sections to understand the resources that you may find useful in each tab.</span></span></span></span></span></p>",
+    "_id": "62f60867aaa43509b0660137",
+    "_parentId": "62f60867aaa43509b0660119",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:justify\"><span style=\"color:#2c2c2c\">We understand that there are many resources available across Amway&rsquo;s digital properties, which can be quite confusing to start with.</span></p><p style=\"text-align:justify\"><span style=\"color:#2c2c2c\">To sort things out based on what you might want to know as you start your Amway business, here is a directory to help you understand where you can obtain the relevant information.</span></p><p style=\"text-align:justify\">Expand each section to find out.</p>",
+    "_id": "62f60867aaa43509b0660138",
+    "_parentId": "62f60867aaa43509b066011a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>Now that you know about Amway, its brands and quality products, and the digital resources available to help you excel in your business, it is time to get to the core of the Amway business.</p><p>While you may find details of the Amway compensation plan documented in PDF manuals in the Business Kit, this information has also been converted into<strong> interactive online courses</strong> to make your learning more effective.</p><p>Let&rsquo;s kickstart your journey by learning about the Amway compensation plan in detail on eLearning.</p><p>&nbsp;</p><p>&nbsp;</p><p><i>Head on to the <strong><a href=\"https://sea.amwayuniversity.com/m/#/category/41\" target=\"blank\">Business Catalogue</a></strong>. You are recommended to complete the highlighted courses in sequence to establish a strong foundation of knowledge about the Amway compensation plan.</i></i></p>",
+    "_id": "62f60867aaa43509b0660139",
+    "_parentId": "62f60867aaa43509b066011b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b066013a",
+    "_parentId": "62f60867aaa43509b0660127",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b066013b",
+    "_parentId": "62f60867aaa43509b0660119",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/61249349b686492417299102.gif",
+      "small": "course/en/assets/61249380052863490ba113c0.gif",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "background-colour5",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Resources Tab",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b066013c",
+    "_parentId": "62f60867aaa43509b066011c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "BUSINESS CENTER",
+        "body": "<p style=\"text-align:justify\"><span><span><span><span><span>The business dashboard offers business tools and reports to track and monitor your business performance from time to time, such as your business income, line of sponsorship (LOS), etc.</span></span></span></span></span></p><p><span><span><span>To learn how to use these business tools, you may visit <a href=\"https://sea.amwayuniversity.com/m/#/category/41\" target=\"blank\">eLearning Business category</a> &gt; Business Tools Tutorial</span></span></span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "INFORMATION & EDUCATION",
+        "body": "<p style=\"text-align:justify\"><span><span><span><span><span>There are different learning resources to help you build a successful business. Start by building a good foundation of knowledge about the compensation plan and products. </span></span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span><strong><span>Product Catalogue &amp; Business Kits:</span></strong><span> PDF documents of the product catalogue and price list, as well as the business manual of Amway&rsquo;s compensation plan.</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><strong><span>eLearning</span></strong><span>: Interactive online courses to understand the Amway compensation plan, training videos and downloadable materials of different products.</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><strong><span>Amway Corner</span></strong><span>: Compiled monthly promotions, product certificates, and programme information.</span></span></span></span></span></li></ul><p style=\"text-align:justify\"><span><span><span><span><span>To access any of the above sections, just make sure you are logged in to </span><a href=\"http://www.amway.my\" style=\"color:#0563c1; text-decoration:underline\" target=\"blank\"><span>www.amway.my</span></a>&nbsp;/ <a href=\"http://www.amway.com.bn\" style=\"color:#0563c1; text-decoration:underline\" target=\"blank\">www.amway.com.bn</a>&nbsp;(for Brunei ABOs)<span>&nbsp;&gt; INFORMATION &amp; EDUCATION, then click on the relevant tab.</span></span></span></span></span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/6139b0c08e5d071cb5283d3f.png",
+          "attribution": ""
+        },
+        "_classes": "image-left"
+      },
+      {
+        "title": "AMWAYNOW",
+        "body": "<p style=\"text-align:justify\"><span><span><span><span><span>The <a href=\"https://amwaynow.my/\" target=\"blank\">AmwayNow</a> digital magazine is a source of information, inspiration and motivation for entrepreneurs.</span></span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span><span>Public Section: <strong>Articles</strong> and <strong>Promotions </strong></span></span></span></span></span><br /><span><span><span><span><span>The content in both sections are open to public, meaning that even non-ABOs or non-APCs can view them! This makes it easy to share the information with your prospects. And the lifestyle-inspired articles are especially helpful to make your social media posting more lively.</span></span></span></span></span><br />&nbsp;</li><li style=\"text-align:justify\"><span><span><span><span><span>ABO-only Section: <strong>Business</strong></span></span></span></span></span><br /><span><span><span>The content in the Business section of AmwayNow were curated to inspire and motivate our ABOs. It features the success stories of our achievers, inspirational articles, ongoing programmes and campaigns, upcoming and post events, and many more. </span></span></span></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/61246cc8916ede6729d30f45.gif",
+          "attribution": ""
+        },
+        "_classes": "image-left"
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "accordion",
+    "_classes": "background-colour5 no-element-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Accordion",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b066013d",
+    "_parentId": "62f60867aaa43509b066011a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Business Income",
+        "body": "<ul><li><a href=\"https://sea.amwayuniversity.com/m/#/category/41\" target=\"blank\">Business Catalogue | eLearning </a>&nbsp;<br />(Bite-size interactive online courses)<br />&nbsp;</li><li><a href=\"https://www.amway.my/education\" target=\"blank\">Education | Amway Malaysia</a><br />(Reading materials)<br />&nbsp;</li><li><a href=\"https://www.amway.my/business-tool\" target=\"blank\">Business Guides | Amway Malaysia&nbsp;</a><br />(Reading materials)</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Business/ Promotions Updates",
+        "body": "<ul><li><a href=\"https://www.amway.my/education/monthly-promotions\" target=\"blank\">Monthly Promotions | Amway Malaysia</a><br />(Available promotions are compiled into a PDF, posted on a monthly basis.)<br />&nbsp;</li><li><a href=\"https://amwaynow.my/en/promotions\" target=\"blank\">Promotions | AmwayNOW</a><br />(Constantly updated promotions that are shareable)</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Product Information",
+        "body": "<ul><li>Customer Favourites<br />(PDF eCatalogue / website)<br />&nbsp;</li><li>eLearning<br />(Training videos and/or PDF reference materials)<br />&nbsp;</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b066013e",
+    "_parentId": "62f60867aaa43509b066011d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "background-colour4 no-element-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How does it work for you?",
+    "displayTitle": "How does it work for you?",
+    "body": "<p><span><span><span><span>Amway&rsquo;s Customer Favourites are an easy way to get started. These best-selling, on-trend products from each Amway category meet a variety of customer needs.</span> </span></span></span></p><p style=\"text-align:justify\"><span><span><span><span><span>When you have too many products to choose from, Customer Favourites can help you and your customers discover your personal favourites and what works for you. </span></span></span></span></span></p><p>Find out how you can make use of it below!&nbsp;</p>",
+    "_id": "62f60867aaa43509b066013f",
+    "_parentId": "62f60867aaa43509b066011e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660140",
+    "_parentId": "62f60867aaa43509b066011e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/611dd6cd3f718f6191711736.png",
+      "small": "course/en/assets/611dd744052863490ba1135c.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "background-colour7 background-image5 no-element-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "CF Tutorial",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660141",
+    "_parentId": "62f60867aaa43509b066011f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on the arrow < or > to view the step-by-step guide.",
+    "mobileInstruction": "Click on the arrow < or > and expand '+' to view the step-by-step guide.",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Learn, Share, and Sell",
+        "_ariaLevel": 0,
+        "body": "<p><span><span><span>The Customer Favourites eCatalogue provides an easy-to-read infographic of each best-selling product. It enables you to quickly understand the key features and benefits of the products, so that you can share and sell them to your customers.</span></span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/611e51f60b4f2124d73bbec0.gif",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Learn, Share, and Sell"
+      },
+      {
+        "title": "Where to get the latest Customer Favourites eCatalogue?",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span><span><span><span><span>The Customer Favourites is refreshed yearly to reflect the latest best-selling products. </span></span></span></span></span></p><p><span><span><span>To ensure that you get the most updated Customer Favourites eCatalogue, log in to the Amway Central Malaysia app, click on the menu and select Customer Favourites. Or simply search &lsquo;eCatalogue&rsquo; on the app.</span></span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/611f2a3edc976448ecb62230.gif",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Where to get the latest Customer Favourites eCatalogue?"
+      },
+      {
+        "title": "You can keep a copy of the eCatalogue!",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span><span><span><span><span>Expand the menu and select &lsquo;Download&rsquo; to save a copy of this eCatalogue to your device.</span></span></span></span></span></p><p><span><span><span>*Works best when you view it in browser!</span></span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/611f29d03108d44b31e2c286.gif",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "You can keep a copy of the eCatalogue!"
+      },
+      {
+        "title": "You can shop from the eCatalogue!",
+        "_ariaLevel": 0,
+        "body": "<p><span><span><span>By clicking the shopping cart icon, you will be redirected to the product shopping page and easily add the item to cart.</span></span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/611f2a023108d44b31e2c287.gif",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "You can shop from the eCatalogue!"
+      },
+      {
+        "title": "How about a webpage to understand these products a little bit more?",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span><span><span><span><span>Customer Favourites product information are also available on an interactive webpage which is accessible by everyone. </span></span></span></span></span></p><p><span><span><span>Simply head on to </span></span></span><span><span><span><a href=\"http://www.amwaycustomerfav.my\"  style=\"color:#0563c1; text-decoration:underline\" target=\"blank\"><span>www.amwaycustomerfav.my</span></a></span></span></span><span><span><span> and you may learn something more from the bite-sized videos.</span></span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/611f4e5191554a7bee784e7f.gif",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "How about a webpage to understand these products a little bit more?"
+      }
+    ]
+  },
+  {
+    "_component": "blank",
+    "_classes": "blank-small",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660142",
+    "_parentId": "62f60867aaa43509b0660120",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "background-colour4 no-element-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What you can learn and how?",
+    "displayTitle": "What you can learn and how?",
+    "body": "<p>Amway eLearning website is a great resource to learn more in-depth product knowledge, and it is especially helpful to understand essential business information like business income opportunity, business rules and so on.</p><p>Let&rsquo;s check out how you can make full use of this eLearning platform!</p>",
+    "_id": "62f60867aaa43509b0660143",
+    "_parentId": "62f60867aaa43509b0660121",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660144",
+    "_parentId": "62f60867aaa43509b0660122",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "background-colour8 background-image7 no-element-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "eLearning Tutorials",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660145",
+    "_parentId": "62f60867aaa43509b0660123",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "What can you find on eLearning?",
+        "_ariaLevel": 0,
+        "body": "<p><span><span><span><span>On eLearning, you get to learn in-depth knowledge about the products and business plans presented in various formats, such as:</span></span></span></span></p><ul><li><span><span><span><span>interactive online courses</span></span></span></span></li><li><span><span><span><span>training video</span></span></span></span></li><li><span><span><span><span>presentation slides</span></span></span></span></li><li><span><span><span>manuals </span></span></span></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/6120cc47052863490ba1138f.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "What can you find on eLearning?"
+      },
+      {
+        "title": "Where to look for the information you want?",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span><span><span><span><span>Here&rsquo;s a general guide to browse through the catalogue on eLearning:</span></span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span><strong><span>Nutrition Health</span></strong><span>: Nutrilite&trade; product information</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><strong><span>Beauty and Personal Care</span></strong><span>: ARTISTRY&trade;, G&amp;H&trade;, Satinique&trade;, Glister&trade; product information</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><strong><span>Home Living and Home Care</span></strong><span>: Amway Home, eSpring, and ATMOSPHERE&trade; product information</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><strong><span>Business</span></strong><span>: Amway Compensation Plan, Core Plus+ discretionary rewards, APC, business tools tutorials</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><strong><span><span><span>Rules of Conduct</span></span></span></strong><span><span><span>: Amway business Dos and Don&rsquo;ts, important rules when going online (Digital Communications Standards)</span></span></span></span></span></span></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/6120cc66052863490ba11390.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Where to look for the information you want?"
+      },
+      {
+        "title": "Or…you can search via keywords!",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span><span><span><span><span>Simply type in the product name, or business programme you want to know more about in the search bar.</span></span></span></span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/6125b4e32ec0ee37b06a6c98.gif",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Or…you can search via keywords!"
+      },
+      {
+        "title": "If you are exploring what you can learn on eLearning…",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span><span><span><span><span>Click&nbsp;&#39;Explore&#39; to check out all we have on eLearning.</span></span></span></span></span></p><p><span><span><span>When you click on the arrow to expand the list, you will see the learning activities available in each catalogue at one glance. Then click on any activity title you are interested in and start your learning.</span></span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/6125b4f617d1ca7499c45445.gif",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "If you are exploring what you can learn on eLearning…"
+      }
+    ]
+  },
+  {
+    "_component": "blank",
+    "_classes": "blank-small",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660146",
+    "_parentId": "62f60867aaa43509b0660124",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "background-image8 background-colour9 no-element-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "eLearning FAQ",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660147",
+    "_parentId": "62f60867aaa43509b0660125",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Can I access eLearning using my smartphone or tablet?",
+        "_ariaLevel": 0,
+        "body": "<p><span><span><span><span>Yes, Amway eLearning can be accessed on most devices operating on iOS and Android!</span></span></span></span></p><p><span><span><span><span>In fact, the accessibility of eLearning is determined by the version of browsers on your device; we highly recommend Google Chrome. As long as you are using the latest version of Google Chrome, you should be able to view the content.</span></span></span></span></p><p><span><span><span><span><span><span>Do take note to disable the popup blocker in your browser setting to make sure it works!</span></span></span> </span></span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/6120dcb53d5e6d1c519a1964.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Can I access eLearning using my smartphone or tablet?"
+      },
+      {
+        "title": "How do I change the language on eLearning?",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span><span><span>To switch to another language for learning, expand the menu &gt; Language &gt; select your preferred language and click &lsquo;Done&rsquo;.</span></span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/6120dccaa946511c6dbc7b10.gif",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "How do I change the language on eLearning?"
+      },
+      {
+        "title": "How do I search for the courses that I have taken?",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span><span><span><span><span>Expand the menu &gt; User History and you will find the list of courses you have taken before. </span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span>The courses marked with a green tick icon means &lsquo;Completed&rsquo;. The blue half circle icon means &lsquo;in progress&rsquo;, and you may want to click on it to continue your learning.</span></span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/6120dce3221ce97f9037aa11.gif",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "How do I search for the courses that I have taken?"
+      },
+      {
+        "title": "What are the highly recommended courses to learn about the business?",
+        "_ariaLevel": 0,
+        "body": "<p style=\"text-align:justify\"><span><span><span>As a new business owner, we believe you will be eager to learn everything, especially how you can earn by selling Amway products. Find out how in the next page!</span></span></span></p>",
+        "_graphic": {
+          "src": "course/en/assets/6120dcfb642df91c904051eb.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "What are the highly recommended courses to learn about the business?"
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Free Training by Amway Malaysia",
+    "displayTitle": "Free Training by Amway Malaysia",
+    "body": "<p style=\"text-align:justify\"><span><span><span><span><span>Amway offers free virtual training to help you get first-hand information on its products and business plan. Workshops and/or rallies are often conducted to support a new product launch, or when there is an update in the business plans. </span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span><span>What is the best way to be informed of these events, so you don&rsquo;t miss the LIVE session?</span></span></span></span></span></p>",
+    "_id": "62f60867aaa43509b0660148",
+    "_parentId": "62f60867aaa43509b0660126",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Amway Central Malaysia - Calendar",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "AmwayNow - Promotions section",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Amway Business Center",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Free Training by Amway Malaysia",
+      "correct": "<p style=\"text-align:justify\"><span><span><span><span><span>Great! You got it!&nbsp;</span></span></span></span></span><span><span><span><span><span>You can always get event updates in <strong>Amway Central Malaysia</strong> as the dates are plotted in the <strong>calendar</strong>! You can attend the LIVE training session by clicking on the event link provided in the information page. In the LIVE session, you can post questions about the topic to clarify your doubts.</span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span><span>Do not worry if you miss the LIVE sessions as those virtual workshops will be made available on eLearning soon after the event.</span></span></span></span></span></p>",
+      "_incorrect": {
+        "final": "<p style=\"text-align:justify\"><span><span><span><span><span>That was not quite correct. You can always get event updates in<strong> Amway Central Malaysia</strong> as the dates are plotted in the <strong>calendar.</strong>&nbsp;You can attend the LIVE training session by clicking on the event link provided in the information page. In the LIVE session, you can post questions about the topic to clarify your doubts.</span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span><span>Do not worry if you miss the LIVE sessions as those virtual workshops will be made available on eLearning soon after the event.</span></span></span></span></span></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660149",
+    "_parentId": "62f60867aaa43509b0660128",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b066014a",
+    "_parentId": "62f60867aaa43509b0660129",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "blank-small",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b066014b",
+    "_parentId": "62f60867aaa43509b066012a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "background-colour4 no-element-backgrounds",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "eLearning FAQ",
+    "displayTitle": "eLearning FAQ",
+    "body": "",
+    "_id": "62f60867aaa43509b066014c",
+    "_parentId": "62f60867aaa43509b066012b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "blank-small",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b066014d",
+    "_parentId": "62f60867aaa43509b066012c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b066014e",
+    "_parentId": "62f60867aaa43509b066012d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b066014f",
+    "_parentId": "62f60867aaa43509b066012e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660150",
+    "_parentId": "62f60867aaa43509b066012f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "business courses",
+      "large": "course/en/assets/6125977d486ff333797f5b03.gif",
+      "small": "course/en/assets/6125977d486ff333797f5b03.gif",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>As an ABO, you are given the fundamental freedom as an entrepreneur to run your Amway business and build on your strategies.</p><p>However, we would like to remind all our ABOs that <span style=\"color:#e74c3c\">selling Amway products on any online shopping sites and unauthorised ecommerce websites is <strong>STRICTLY PROHIBITED</strong></span>. Amway will take <strong>stern action</strong> against any ABO who sells on eCommerce sites or supply Amway products to online retailers.</p><p>For more information, check out <strong><a href=\"https://sea.amwayuniversity.com/m/#/category/454\" target=\"blank\">Important Rules You Must Know</a></strong>.</p>",
+    "_id": "62f60867aaa43509b0660151",
+    "_parentId": "62f60867aaa43509b0660130",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660152",
+    "_parentId": "62f60867aaa43509b0660130",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "business courses",
+      "large": "course/en/assets/61211a0e052863490ba11394.png",
+      "small": "course/en/assets/61211a0e052863490ba11394.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "blank-small",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660153",
+    "_parentId": "62f60867aaa43509b0660131",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660154",
+    "_parentId": "62f60867aaa43509b0660132",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": " blank-small",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660155",
+    "_parentId": "62f60867aaa43509b0660133",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660156",
+    "_parentId": "62f60867aaa43509b0660134",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p>You have come to the end of this New ABO Essentials. We hope you have a clearer idea on the available resources, and a better understanding of how Amway will continue to support your entrepreneurship journey.</p><p>We wish you the best and we shall see you at the top!</p>",
+    "_id": "62f60867aaa43509b0660157",
+    "_parentId": "62f60867aaa43509b0660135",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62f60867aaa43509b0660158",
+    "_parentId": "62f60867aaa43509b0660135",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6121fbbcb64c0e22a3b094f1.png",
+      "small": "course/en/assets/6121fbbcb64c0e22a3b094f1.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "responsiveIframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What do you think of this New ABO Essentials Course?",
+    "displayTitle": "What do you think of this New ABO Essentials Course?",
+    "body": "<iframe width=\"1000px\" height= \"1500px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=5P3DOHsZuUeVAHafVH32mACwXadU0KdEu830-jjvDTRURjJCSzRMSUxWRFk4UVVFVFVEQUZDVUVSSi4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>",
+    "_id": "62f60867aaa43509b0660159",
+    "_parentId": "62f60867aaa43509b0660136",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_source": "https://forms.office.com/r/e7TT0SP5uj",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 0,
+      "_medium": 0,
+      "_large": 0
+    },
+    "_height": {
+      "_small": 0,
+      "_medium": 0,
+      "_large": 0
+    }
+  }
+]
